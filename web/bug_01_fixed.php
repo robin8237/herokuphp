@@ -7,11 +7,7 @@
 </head>
 <body>
     <p>Act 4 Fix</p>
-
     <!-- Fix : Serve images in next-gen formats -->
     <img src="img/wallpaper.webp" width="500" height="300" alt="Wallpaper" />
-
-    <!-- Fix : Properly size images -->
-    <img src="img/wallpaper-100w.jpg" width="200" height="200" alt="Wallpaper" />
 </body>
 </html>
