@@ -8,6 +8,6 @@
 <body>
     Act 4 Fix
 
-    <img src="wallpaper.webp" width="1536" height="1080" alt="Wallpaper" />
+    <img src="wallpaper.webp" width="1536" height="1024" alt="Wallpaper" />
 </body>
 </html>
