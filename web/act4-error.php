@@ -8,6 +8,7 @@
 <body>
     Act 4 Error
 
+    <!-- Error : Serve images in next-gen formats -->
     <img src="img/wallpaper.jpg" width="500" height="300" alt="Wallpaper" />
 </body>
 </html>
