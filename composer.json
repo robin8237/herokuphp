@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Robin Lai",
+        "email": "20019018@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
