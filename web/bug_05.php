@@ -7,7 +7,7 @@
 </head>
 <body>
     Act 4 Error
-    <!-- Error : Image elements do not have [alt] attributes -->
+    <!-- Error : Serves images with low resolution -->
     <img src="img/wallpaper-100w.jpg" width="200" height="200" alt="wallpaper"/>
 </body>
 </html>
