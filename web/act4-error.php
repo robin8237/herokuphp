@@ -7,5 +7,7 @@
 </head>
 <body>
     Act 4 Error
+
+    <img src="img/wallpaper.jpg" />
 </body>
 </html>

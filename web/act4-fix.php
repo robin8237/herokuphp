@@ -7,5 +7,7 @@
 </head>
 <body>
     Act 4 Fix
+
+    <img src="img/wallpaper.webp" />
 </body>
 </html>
