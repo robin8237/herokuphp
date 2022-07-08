@@ -10,5 +10,8 @@
 
     <!-- Error : Serve images in next-gen formats -->
     <img src="img/wallpaper.jpg" width="500" height="300" alt="Wallpaper" />
+
+    <!-- Error : Properly size images -->
+    <img src="img/wallpaper.jpg" width="100w" alt="Wallpaper" />
 </body>
 </html>

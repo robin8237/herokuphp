@@ -10,5 +10,8 @@
 
     <!-- Fix : Serve images in next-gen formats -->
     <img src="img/wallpaper.webp" width="500" height="300" alt="Wallpaper" />
+
+    <!-- Fix : Properly size images -->
+    <img src="img/wallpaper-100w.jpg" width="100w" alt="Wallpaper" />
 </body>
 </html>
