@@ -7,7 +7,7 @@
 </head>
 <body>
     <p>Act 4 Fix</p>
-    <!-- Fix : Properly size images -->
+    <!-- Fix : Image elements do not have [alt] attributes -->
     <img src="img/wallpaper-100w.jpg" width="100" height="100" alt="Wallpaper" />
 </body>
 </html>
