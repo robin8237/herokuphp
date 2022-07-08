@@ -8,6 +8,6 @@
 <body>
     Act 4 Error
     <!-- Error : Properly size images -->
-    <img src="img/wallpaper.jpg" width="200" height="200" alt="Wallpaper" />
+    <img src="img/wallpaper.jpg" width="100" height="100" alt="Wallpaper" />
 </body>
 </html>
