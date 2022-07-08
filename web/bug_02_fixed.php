@@ -8,6 +8,6 @@
 <body>
     <p>Act 4 Fix</p>
     <!-- Fix : Properly size images -->
-    <img src="img/wallpaper-100w.jpg" width="200" height="200" alt="Wallpaper" />
+    <img src="img/wallpaper-100w.jpg" width="400" height="400" alt="Wallpaper" />
 </body>
 </html>
