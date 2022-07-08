@@ -6,7 +6,7 @@
     <title>Activity 4 Fixes</title>
 </head>
 <body>
-    Act 4 Fix
+    <p>Act 4 Fix</p>
 
     <img src="wallpaper.webp" width="1536" height="1024" alt="Wallpaper" />
 </body>
