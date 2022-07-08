@@ -6,6 +6,5 @@
     <title>Activity 4 Fixes</title>
 </head>
 <body>
-  Text Fix!
 </body>
 </html>
