@@ -1,3 +1,5 @@
+<!-- fix : Page lacks the HTML doctype, thus triggering quirks-mode -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <!-- fix : Does not have a <meta name="viewport"> tag with width or initial-scale -->
