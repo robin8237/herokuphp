@@ -8,6 +8,6 @@
 <body>
     Act 4 Error
 
-    <img src="img/wallpaper.jpg" />
+    <img src="wallpaper.jpg" width="500" height="300" alt="Wallpaper" />
 </body>
 </html>
