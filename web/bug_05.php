@@ -7,6 +7,7 @@
 </head>
 <body>
     Act 4 Error
-    <a target="_self" href="/sp/sitemap" rel="noreferrer">Sitemap</a>
+    <!-- Error : Image elements do not have [alt] attributes -->
+    <img src="img/wallpaper-100w.jpg" width="200" height="200" alt="wallpaper"/>
 </body>
 </html>
