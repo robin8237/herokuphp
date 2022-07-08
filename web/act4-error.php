@@ -12,6 +12,6 @@
     <img src="img/wallpaper.jpg" width="500" height="300" alt="Wallpaper" />
 
     <!-- Error : Properly size images -->
-    <img src="img/wallpaper.jpg" width="100" alt="Wallpaper" />
+    <img src="img/wallpaper.jpg" width="200" height="200" alt="Wallpaper" />
 </body>
 </html>

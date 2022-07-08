@@ -12,6 +12,6 @@
     <img src="img/wallpaper.webp" width="500" height="300" alt="Wallpaper" />
 
     <!-- Fix : Properly size images -->
-    <img src="img/wallpaper-100w.jpg" width="100" alt="Wallpaper" />
+    <img src="img/wallpaper-100w.jpg" width="200" height="200" alt="Wallpaper" />
 </body>
 </html>
